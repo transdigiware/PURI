@@ -29,3 +29,14 @@ PURI saat ini merupakan sebuah perencanaan program Privacy Untuk Masyarakat di R
 * Hak untuk mengajukan keluhan - jika kami menolak permintaan Anda di bawah Hak Akses, kami akan memberi Anda alasan mengapa. Jika Anda tidak puas dengan cara permintaan Anda ditangani, silakan hubungi kami.
 * Hak untuk bantuan otoritas pengawasan - yang berarti Anda memiliki hak untuk bantuan otoritas pengawas dan hak untuk penyelesaian hukum lainnya seperti mengklaim kerusakan.
 * Hak untuk menarik persetujuan - Anda berhak menarik persetujuan yang diberikan untuk Memproses Data Pribadi Anda.
+# Data yang Dikumpulkan
+## Informasi yang di berikan 
+Dalam hal ini mungkin alamat e-mail Anda, nama, alamat penagihan, alamat rumah dll - terutama informasi yang diperlukan untuk memberikan Anda produk / layanan atau untuk meningkatkan pengalaman pelanggan Anda dengan kami. Kami menyimpan informasi yang Anda berikan kepada kami agar Anda dapat berkomentar atau melakukan kegiatan lain di situs web. Informasi ini termasuk, misalnya, nama dan alamat e-mail Anda.
+## Informasi yang dikumpulkan secara otomatis tentang Data Anda
+Hal tersebut  termasuk informasi yang secara otomatis disimpan oleh cookie dan alat sesi lainnya. Misalnya, informasi keranjang belanja Anda, alamat IP Anda, riwayat belanja Anda (jika ada), dll. Informasi ini digunakan untuk meningkatkan pengalaman pelanggan Anda. Ketika Anda menggunakan suatu pelayanan atau melihat isi situs web yang dikunjungi pada dunia maya, aktivitas Anda mungkin akan tercatat.
+## Informasi dari mitra yang merupakan pihak ke III
+Di kumpulkan informasi dari mitra terpercaya yang ada dengan konfirmasi bahwa mereka memiliki dasar hukum untuk membagikan informasi tersebut kepada Pihak I. Dalam hal Ini informasi yang Anda berikan secara langsung kepada mereka atau bahwa mereka telah mengumpulkan data tentang Anda dengan alasan hukum lainnya.
+## Informasi yang tersedia untuk publik
+Kami mungkin mengumpulkan informasi tentang Anda yang tersedia untuk umum.
+
+
