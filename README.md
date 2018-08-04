@@ -5,5 +5,5 @@ PURI saat ini merupakan sebuah perencanaan program Privacy Untuk Masyarakat di R
 # Definisi
 - **Data Pribadi**  - informasi apa pun yang berkaitan dengan orang pribadi yang teridentifikasi atau dapat diidentifikasi.
  - **Memproses**  - setiap operasi atau serangkaian operasi yang dilakukan pada Data Pribadi atau pada set Data Pribadi.
--**Subjek data**  - orang alami yang Data Pribadinya sedang Diproses.
--**Anak** - orang alami di bawah 16 tahun.
+- **Subjek data**  - orang alami yang Data Pribadinya sedang Diproses.
+- **Anak** - orang alami di bawah 16 tahun.
