@@ -7,3 +7,11 @@ PURI saat ini merupakan sebuah perencanaan program Privacy Untuk Masyarakat di R
  - **Memproses**  - setiap operasi atau serangkaian operasi yang dilakukan pada Data Pribadi atau pada set Data Pribadi.
 - **Subjek data**  - orang alami yang Data Pribadinya sedang Diproses.
 - **Anak** - orang alami di bawah 16 tahun.
+# Prinsip Perlindungan Data
+## Kami berjanji untuk mengikuti prinsip perlindungan data berikut:
+- Pemrosesan adalah sah, adil, transparan. Kegiatan Pengolahan kami memiliki landasan hukum. Kami selalu mempertimbangkan hak Anda sebelum - Memproses Data Pribadi. Kami akan memberikan Anda informasi tentang Memproses berdasarkan permintaan.
+- Pemrosesan terbatas pada tujuan. Kegiatan Pengolahan kami sesuai dengan tujuan untuk mana Data Pribadi dikumpulkan.
+- Pemrosesan dilakukan dengan data minimal. Kami hanya mengumpulkan dan Memproses jumlah minimal Data Pribadi yang diperlukan untuk tujuan apa pun.
+- Pemrosesan terbatas dengan periode waktu. Kami tidak akan menyimpan data pribadi Anda lebih lama dari yang dibutuhkan.
+- Kami akan melakukan yang terbaik untuk memastikan keakuratan data.
+- Kami akan melakukan yang terbaik untuk memastikan integritas dan kerahasiaan data.
