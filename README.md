@@ -35,8 +35,10 @@ Dalam hal ini mungkin alamat e-mail Anda, nama, alamat penagihan, alamat rumah d
 ## Informasi yang dikumpulkan secara otomatis tentang Data Anda
 Hal tersebut  termasuk informasi yang secara otomatis disimpan oleh cookie dan alat sesi lainnya. Misalnya, informasi keranjang belanja Anda, alamat IP Anda, riwayat belanja Anda (jika ada), dll. Informasi ini digunakan untuk meningkatkan pengalaman pelanggan Anda. Ketika Anda menggunakan suatu pelayanan atau melihat isi situs web yang dikunjungi pada dunia maya, aktivitas Anda mungkin akan tercatat.
 ## Informasi dari mitra yang merupakan pihak ke III
-Di kumpulkan informasi dari mitra terpercaya yang ada dengan konfirmasi bahwa mereka memiliki dasar hukum untuk membagikan informasi tersebut kepada Pihak I. Dalam hal Ini informasi yang Anda berikan secara langsung kepada mereka atau bahwa mereka telah mengumpulkan data tentang Anda dengan alasan hukum lainnya.
+Di kumpulkan informasi dari program kemitraan terpercaya yang ada dengan konfirmasi bahwa mereka memiliki dasar hukum untuk membagikan informasi tersebut kepada Pihak-pihak lainnya. Dalam hal Ini informasi yang Anda berikan secara langsung kepada mereka atau bahwa mereka telah mengumpulkan data tentang Anda dengan alasan hukum lainnya.
 ## Informasi yang tersedia untuk publik
-Kami mungkin mengumpulkan informasi tentang Anda yang tersedia untuk umum.
-
+Mereka, Para Pihak yang menjadi layanan anda  mungkin mengumpulkan informasi tentang Anda yang tersedia untuk umum.
+Dalam kasus-kasus tertentu, Anda mungkin memiliki kemampuan untuk melihat atau mengedit informasi pribadi Anda secara online. Jika informasi Anda tidak dapat diakses secara online, dan Anda ingin mendapatkan salinan informasi tertentu yang Anda berikan kepada layanan Anda tersebut, atau jika Anda mengetahui bahwa informasinya salah dan Anda ingin layanan tersebut memperbaikinya, mereka dalam hal ini layanan tersebut harus bisa di hubungi dan segera mereka merespon konfirmasi anda. 
+## Akses Privasi Data Anda
+Jika Anda tidak ingin lagi menerima e-mail pemasaran dari dari layanan mereka, anda bisa mengaturnya atau mengikuti instruksi berhenti berlangganan yang disertakan dalam setiap email pemasaran.atau mengirimkan penolakan anda melalui alamat e-mail dari layanan mereka tersebut.
 
