@@ -42,4 +42,4 @@ Dalam kasus-kasus tertentu, Anda mungkin memiliki kemampuan untuk melihat atau m
 ## Akses Privasi Data Anda
 Jika Anda tidak ingin lagi menerima e-mail pemasaran dari dari layanan mereka, anda bisa mengaturnya atau mengikuti instruksi berhenti berlangganan yang disertakan dalam setiap email pemasaran.atau mengirimkan penolakan anda melalui alamat e-mail dari layanan mereka tersebut.
 ## Tentang Kepatuhan
-[GDPR] (https://transdigiware.github.io/GDPR/)
+[GDPR](https://transdigiware.github.io/GDPR/)
