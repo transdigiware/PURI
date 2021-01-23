@@ -41,5 +41,6 @@ Mereka, Para Pihak yang menjadi layanan anda  mungkin mengumpulkan informasi ten
 Dalam kasus-kasus tertentu, Anda mungkin memiliki kemampuan untuk melihat atau mengedit informasi pribadi Anda secara online. Jika informasi Anda tidak dapat diakses secara online, dan Anda ingin mendapatkan salinan informasi tertentu yang Anda berikan kepada layanan Anda tersebut, atau jika Anda mengetahui bahwa informasinya salah dan Anda ingin layanan tersebut memperbaikinya, mereka dalam hal ini layanan tersebut harus bisa di hubungi dan segera mereka merespon konfirmasi anda. 
 ## Akses Privasi Data Anda
 Jika Anda tidak ingin lagi menerima e-mail pemasaran dari dari layanan mereka, anda bisa mengaturnya atau mengikuti instruksi berhenti berlangganan yang disertakan dalam setiap email pemasaran.atau mengirimkan penolakan anda melalui alamat e-mail dari layanan mereka tersebut.
+## [Pernyataan Privasi Microsoft](https://privacy.microsoft.com/id-ID/privacystatement#mainnoticetoendusersmodule)
 ## Tentang Kepatuhan
 [GDPR](https://transdigiware.github.io/GDPR/)
