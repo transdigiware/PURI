@@ -44,3 +44,13 @@ Jika Anda tidak ingin lagi menerima e-mail pemasaran dari dari layanan mereka, a
 ## [Pernyataan Privasi Microsoft](https://privacy.microsoft.com/id-ID/privacystatement#mainnoticetoendusersmodule)
 ## Tentang Kepatuhan
 [GDPR](https://transdigiware.github.io/GDPR/)
+## Tentang Privacy Sandbox
+Privacy Sandbox adalah inisiatif berkelanjutan untuk mempertahankan web terbuka yang akan membantu mengamankan Anda dari mekanisme pelacakan.
+
+Saat ini, situs mengandalkan banyak teknologi, misalnya cookie pihak ketiga, untuk layanan penting seperti menampilkan iklan yang relevan dan mengukur performa suatu situs.
+
+Privacy Sandbox mempertahankan kehebatan web terbuka dengan menciptakan cara yang lebih baik untuk menjalankan layanan ini tanpa merusak situs, sekaligus mencegah Anda dilacak secara diam-diam di seluruh web.
+
+Privacy Sandbox masih dalam pengembangan aktif dan hanya tersedia di wilayah tertentu. Untuk saat ini, situs dapat mencoba Privacy Sandbox sambil tetap menggunakan teknologi web saat ini seperti cookie pihak ketiga. [Pelajari lebih lanjut](chrome://settings/privacySandbox)
+
+[Building a more private, open web](https://www.privacysandbox.com/)
